@@ -1271,11 +1271,6 @@
   resolved "https://registry.yarnpkg.com/@types/json5/-/json5-0.0.29.tgz#ee28707ae94e11d2b827bcbe5270bcea7f3e71ee"
   integrity sha1-7ihweulOEdK4J7y+UnC86n8+ce4=
 
-"@types/marked@^1.1.0":
-  version "1.1.0"
-  resolved "https://registry.yarnpkg.com/@types/marked/-/marked-1.1.0.tgz#53509b5f127e0c05c19176fcf1d743a41e00ff19"
-  integrity sha512-j8XXj6/l9kFvCwMyVqozznqpd/nk80krrW+QiIJN60Uu9gX5Pvn4/qPJ2YngQrR3QREPwmrE1f9/EWKVTFzoEw==
-
 "@types/node@*":
   version "14.11.2"
   resolved "https://registry.yarnpkg.com/@types/node/-/node-14.11.2.tgz#2de1ed6670439387da1c9f549a2ade2b0a799256"
@@ -5844,11 +5839,6 @@ markdown-escapes@^1.0.0:
   version "1.0.4"
   resolved "https://registry.yarnpkg.com/markdown-escapes/-/markdown-escapes-1.0.4.tgz#c95415ef451499d7602b91095f3c8e8975f78535"
   integrity sha512-8z4efJYk43E0upd0NbVXwgSTQs6cT3T06etieCMEg7dRbzCbxUCK/GHlX8mhHRDcp+OLlHkPKsvqQTCvsRl2cg==
-
-marked@^1.2.0:
-  version "1.2.0"
-  resolved "https://registry.yarnpkg.com/marked/-/marked-1.2.0.tgz#7221ce2395fa6cf6d722e6f2871a32d3513c85ca"
-  integrity sha512-tiRxakgbNPBr301ihe/785NntvYyhxlqcL3YaC8CaxJQh7kiaEtrN9B/eK2I2943Yjkh5gw25chYFDQhOMCwMA==
 
 md5.js@^1.3.4:
   version "1.3.5"
