@@ -33,7 +33,7 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "usemarkdown",
+  "name": "use-syntaxer",
   "author": "Aman Bhardwaj",
   "repository": {
     "type": "git",

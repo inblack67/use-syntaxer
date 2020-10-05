@@ -1,6 +1,6 @@
 import * as React from 'react';
 import * as ReactDOM from 'react-dom';
-import { ShowMarkdown } from '../src/index';
+import { RenderMarkdown } from '../src/index';
 
 /*
 ```js
@@ -11,7 +11,7 @@ console.log('hello hell');
 const code = "```js console.log('hello hell');```";
 
 const App = () => {
-  return <ShowMarkdown code={code} />;
+  return <RenderMarkdown code={code} />;
 };
 
 describe('it', () => {
@@ -23,7 +23,7 @@ describe('it', () => {
 
   it('renders without crashing', () => {
     const div = document.createElement('div');
-    ReactDOM.render(<ShowMarkdown code={code} />, div);
+    ReactDOM.render(<RenderMarkdown code={code} />, div);
     ReactDOM.unmountComponentAtNode(div);
   });
 });

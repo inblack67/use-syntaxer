@@ -4,7 +4,7 @@ import GrayMatter from 'gray-matter';
 import ReactMarkdown from 'react-markdown';
 import PropTypes from 'prop-types';
 
-export const ShowMarkdown = (props: any) => {
+export const RenderMarkdown = (props: any) => {
   const { code } = props;
   const [mdContent, setMdContent] = React.useState('');
 
@@ -24,6 +24,6 @@ export const ShowMarkdown = (props: any) => {
   );
 };
 
-ShowMarkdown.propTypes = {
+RenderMarkdown.propTypes = {
   code: PropTypes.string.isRequired,
 };
