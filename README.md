@@ -1,8 +1,3 @@
----
-title: use-syntaxer
-description: Markdown Previewer With Syntax Highlighter In React.js
----
-
 ## use-syntaxer
 
 Enter your markdown code and get back a perfect render with code syntax highlighting.
@@ -28,7 +23,7 @@ const index = () => {
 
 ### Repository
 
-[Explore](https://github.com/inblack67/use-custom-fetch-suspense)
+[Explore](https://github.com/inblack67/use-syntaxer)
 
 ### About The Author
 

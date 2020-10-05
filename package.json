@@ -37,9 +37,9 @@
   "author": "Aman Bhardwaj",
   "repository": {
     "type": "git",
-    "url": "https://github.com/inblack67/useMarkdown"
+    "url": "https://github.com/inblack67/use-syntaxer"
   },
-  "homepage": "https://github.com/inblack67/useMarkdown",
+  "homepage": "https://github.com/inblack67/use-syntaxer/blob/master/README.md",
   "keywords": [
     "react",
     "markdown",
