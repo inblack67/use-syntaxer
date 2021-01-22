@@ -18,7 +18,7 @@ export const RenderMarkdown = (props: any) => {
       {mdContent.split('').length > 0 ? (
         <ReactMarkdown source={mdContent} renderers={{ code: CodeBlocks }} />
       ) : (
-        <p>Nothing here yet.</p>
+        null
       )}
     </React.Fragment>
   );
